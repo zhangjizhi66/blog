@@ -2,12 +2,18 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: 首页
     url: /
+    weight: 1
+  - name: 文章
+    url: docs/
     weight: 10
-  - name: Topics
+  - name: 话题
     url: tags/
     weight: 20
-  - name: Uses
+  - name: 工具
     url: uses/
     weight: 30
+  - name: 关于
+    url: about/
+    weight: 40

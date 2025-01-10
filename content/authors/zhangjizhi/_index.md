@@ -1,27 +1,27 @@
 ---
 # Display name
-title: 吳健雄
+title: 张集智
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jizhi
+last_name: Zhang
 
 # Status emoji
-status:
-  icon: ☕️
+status: 
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 博士研究生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: 北京大学
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -54,6 +54,9 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+北京大学物理学博士研究生（粒子物理与原子核物理专业，实验核物理方向），
+具备扎实的物理学与数学基础，
+擅长数据建模与分析，
+熟练掌握计算机编程语言与技术，
+外语水平良好，
+有较强的学习能力、创新意识和团队合作精神。

@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 关于
 date: 2025-01-07
 type: landing
 

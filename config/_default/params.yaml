@@ -30,13 +30,24 @@ marketing:
 header:
   navbar:
     enable: true
+    blox: "navbar"
+    align: "center"
+    fixed_to_top: true
+    logo:
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "logo.png"
+    button:
+      enable: false
+      text: ""
+      url: ""
     show_search: true
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''
     license:
       enable: true
       allow_derivatives: false

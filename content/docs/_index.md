@@ -1,16 +1,8 @@
 ---
-linkTitle: Documentation
-title: Introduction
+linkTitle: 文档
+title: 欢迎
 ---
 
-👋 Welcome to the demo of the Hugo Blox Documentation template!
+欢迎来到我的文档！
 
-<!--more-->
-
-This site is a demo of the Hugo Blox Documentation theme. For the full documentation on how to use this template, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
-
-## Next
-
-{{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Create your docs in just 5 minutes!" >}}
-{{< /cards >}}
+这里收录了本人有意深耕的几个领域的研究资料和心得体会，以供查阅。

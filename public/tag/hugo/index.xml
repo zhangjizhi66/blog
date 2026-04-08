@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo | Creator's Blog (Hugo Theme)</title><link>http://localhost:1313/tag/hugo/</link><atom:link href="http://localhost:1313/tag/hugo/index.xml" rel="self" type="application/rss+xml"/><description>Hugo</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>http://localhost:1313/media/icon_hu7729264130191091259.png</url><title>Hugo</title><link>http://localhost:1313/tag/hugo/</link></image><item><title>📈 Communicate your results effectively with the best data visualizations</title><link>http://localhost:1313/blog/data-visualization/</link><pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/blog/data-visualization/</guid><description>&lt;p>Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo | blog</title><link>http://localhost:1313/blog/tag/hugo/</link><atom:link href="http://localhost:1313/blog/tag/hugo/index.xml" rel="self" type="application/rss+xml"/><description>Hugo</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>http://localhost:1313/blog/media/icon_hu7729264130191091259.png</url><title>Hugo</title><link>http://localhost:1313/blog/tag/hugo/</link></image><item><title>📈 Communicate your results effectively with the best data visualizations</title><link>http://localhost:1313/blog/blog/data-visualization/</link><pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/blog/blog/data-visualization/</guid><description>&lt;p>Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p>
 &lt;p>Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p>
 &lt;h2 id="charts">Charts&lt;/h2>
 &lt;p>Hugo Blox supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-852647193" class="chart">&lt;/div>
+&lt;div id="chart-178695324" class="chart">&lt;/div>
 &lt;script>
 async function fetchChartJSON() {
 console.debug('Hugo Blox fetching chart JSON...')
@@ -20,7 +20,7 @@ return;
 clearInterval( a );
 fetchChartJSON().then(chart => {
 console.debug('Plotting chart...')
-window.Plotly.newPlot('chart-852647193', chart.data, chart.layout, {responsive: true});
+window.Plotly.newPlot('chart-178695324', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -146,7 +146,7 @@ Crash --> [*]
 &lt;/tbody>
 &lt;caption class="table-caption">Table 1: My results&lt;/caption>
 &lt;/table>
-&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h2></description></item><item><title>👩🏼‍🏫 Teach academic courses</title><link>http://localhost:1313/blog/teach-courses/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/blog/teach-courses/</guid><description>&lt;p>&lt;a href="https://hugoblox.com" target="_blank" rel="noopener">Hugo Blox Builder&lt;/a> is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p>
+&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h2></description></item><item><title>👩🏼‍🏫 Teach academic courses</title><link>http://localhost:1313/blog/blog/teach-courses/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/blog/blog/teach-courses/</guid><description>&lt;p>&lt;a href="https://hugoblox.com" target="_blank" rel="noopener">Hugo Blox Builder&lt;/a> is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p>
 &lt;p>&lt;strong>Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong>&lt;/p>
 &lt;p>On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p>
 &lt;h2 id="video">Video&lt;/h2>
@@ -176,7 +176,7 @@ class="w-full h-full"
 &lt;/code>&lt;/pre>
 &lt;p>Try it out:&lt;/p>
 &lt;audio controls >
-&lt;source src="http://localhost:1313/blog/teach-courses/ambient-piano.mp3" type="audio/mpeg">
+&lt;source src="http://localhost:1313/blog/blog/blog/teach-courses/ambient-piano.mp3" type="audio/mpeg">
 &lt;/audio>
 &lt;h2 id="test-students">Test students&lt;/h2>
 &lt;p>Provide a simple yet fun self-assessment by revealing the solutions to challenges with the &lt;code>spoiler&lt;/code> shortcode:&lt;/p>

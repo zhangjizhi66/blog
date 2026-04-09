@@ -14,9 +14,6 @@ main:
   - name: 标签
     url: tags/
     weight: 30
-  - name: 工具
-    url: uses/
-    weight: 20
   - name: 关于
     url: about/
     weight: 40

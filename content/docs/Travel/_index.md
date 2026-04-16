@@ -1,5 +1,5 @@
 ---
 linkTitle: 旅行
-title: 欢迎
+title: 旅行
 ---
 

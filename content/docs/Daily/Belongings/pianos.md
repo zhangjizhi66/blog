@@ -1,6 +1,6 @@
 ---
-linkTitle: 自用钢琴型号
-title: 自用钢琴型号
+linkTitle: 钢琴
+title: 钢琴
 ---
 
 #### 珠江 UP-118M 立式机械钢琴

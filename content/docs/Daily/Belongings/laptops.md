@@ -1,6 +1,6 @@
 ---
-linkTitle: 自用笔记本型号
-title: 自用笔记本型号
+linkTitle: 笔记本电脑
+title: 笔记本电脑
 ---
 
 #### 联想 Yoga 710-14IKB（已淘汰）
